@@ -1,7 +1,5 @@
 /*
-Client-side javascript for 2406 assignment 1
-COMP 2406 (c) Louis D. Nel 2022
-
+Client-side javascript f
 */
 let words = [] //array of drag-able lyrics or chord words
 
@@ -94,7 +92,5 @@ function drawCanvas() {
     context.strokeText(data.word, data.x, data.y)
   }
 
-  //draw box around word last targeted with mouse -for debugging
-  //context.strokeRect(wordTargetRect.x, wordTargetRect.y, wordTargetRect.width, wordTargetRect.height);
 
 }

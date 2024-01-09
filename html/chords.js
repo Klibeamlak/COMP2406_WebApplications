@@ -5,8 +5,6 @@ and transposing chords
 
 
 function parseChordProFormat(chordProLinesArray) {
-  //parse the song lines with embedded
-  //chord pro chords into individual movable words
 
   transposedByNSemitones = 0 //reset transposition in semitones
 

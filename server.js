@@ -1,8 +1,4 @@
 /*
-
-This is a simple static server for serving the applications files for assignment #1
-It is also the POST request handler for song requests and requests to save songs.
-
 The chords and lyric files are parsed only to an array of lines (strings)
 and sent to the client.
 Data exchanges are done as JSON strings.
