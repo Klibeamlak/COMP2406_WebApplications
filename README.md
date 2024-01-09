@@ -1,9 +1,9 @@
 # ChordPro Canvas Application
 
-# Installation
+### Installation
   Node.js
 
-# Build and Test
+### Build and Test
   1. Open a terminal or command prompt.
   2. Navigate to the project directory.
   3. Start the server on terminal or command prompt useing => node server.js
