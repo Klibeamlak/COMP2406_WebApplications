@@ -3,12 +3,12 @@
 ### Installation
   Node.js
 
-### Build
+### Build:
   1. Open a terminal or command prompt.
   2. Navigate to the project directory.
   3. Start the server on terminal or command prompt useing => node server.js
   4. Copy the link and paste on web browser
-### Usage
+### Usage:
   To use the application, follow these steps:
   
   1. Open the application in a web browser.
@@ -21,7 +21,6 @@
   Users can request songs, transpose chords, and drag and drop lyrics within a canvas for a dynamic and interactive experience.
 
 ### List of sources:
-
    assignment2.html
    buttonHandlers.js
    canvasWithTimer.js
